@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![HitCount](https://hits.dwyl.com/BuilderCui/blog.svg?style=flat-square)](http://hits.dwyl.com/BuilderCui/BuilderCui)
+
+![](https://github-readme-stats.vercel.app/api?username=BuilderCui)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuilderCui&theme=)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **BuilderCui/BuilderCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
