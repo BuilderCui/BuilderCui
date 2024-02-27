@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](https://hits.dwyl.com/BuilderCui/blog.svg?style=flat-square)](http://hits.dwyl.com/BuilderCui/BuilderCui)
+![](https://komarev.com/ghpvc/?username=BuilderCui)
 
 ![](https://github-readme-stats.vercel.app/api?username=BuilderCui)
 
